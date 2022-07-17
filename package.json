@@ -1,0 +1,27 @@
+{
+  "name": "random-image-discord-bot",
+  "version": "1.0.0",
+  "description": "Gets a random image from the internet and post to discord",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dellsmell/random-image-discord-bot.git"
+  },
+  "author": "Dellsmell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dellsmell/random-image-discord-bot/issues"
+  },
+  "homepage": "https://github.com/Dellsmell/random-image-discord-bot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.15.0",
+    "@discordjs/rest": "^0.5.0",
+    "discord-api-types": "^0.36.2",
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1",
+    "puppeteer": "^15.4.0"
+  }
+}

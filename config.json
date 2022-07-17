@@ -1,0 +1,34 @@
+{
+    "token" : "",
+    "profile" : {
+        "status_message" : "Bot Developed By Dellsmell"
+    },
+    "language" : {
+        "error_message_general_slashcommand" : {
+            "message": "An error occurred while executing that command.",
+            "emphemeral" : true
+        },
+        "error_message_img_failed" : {
+            "message": "Oops sometimes this just does not work... Try again!",
+            "emphemeral" : true
+        },
+        "img_message_pending" : {
+            "message": "Working on it...",
+            "emphemeral" : false
+        },
+        "img_message_success" : {
+            "message": "DONE!",
+            "emphemeral" : false
+        },
+        "img_message_save" : {
+            "message": "Sent Image to DM's",
+            "emphemeral" : true
+        },
+        "img_message_save_dm" : {
+            "message": "Here you go!"
+        },
+        "img_description" : {
+            "message" : "Returns A Random Image From The Depths Of The Internet"
+        }
+    }
+}
